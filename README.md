@@ -1,2 +1,1 @@
-# ornek19
- semraa
+#Akademik bilişim Adroid
